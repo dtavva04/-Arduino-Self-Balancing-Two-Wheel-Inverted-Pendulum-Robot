@@ -1,5 +1,5 @@
 # Arduino Self-Balancing Two-Wheel Inverted Pendulum Robot
-This repository summarizes my 2024 summer project in which I learned how to simulate, design, and build a self-balancing inverted pendulum using PID control.
+This repository is a compilation of the files I used in my 2024 summer project in which I learned how to simulate, design, and build a self-balancing inverted pendulum using Arduino PID control.
 
 I discovered three common designs:
 
