@@ -7,7 +7,7 @@ I discovered three common designs:
 - Fixed reaction wheel
 - Two-Wheel Robot
 
-This project attempted the third (because it looks cool).
+This project attempted the third.
 
 Credits to the original creator of these libraries: I2Cdev, MPU6050, PID.
 
